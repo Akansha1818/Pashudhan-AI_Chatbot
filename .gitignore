@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
+
+# Streamlit logs
+logs/
+*.log
+
+# OS Specific
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Cache
+*.cache
